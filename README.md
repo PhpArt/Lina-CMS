@@ -1,1 +1,1 @@
-# lina
+# Lina CMS
